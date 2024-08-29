@@ -1,0 +1,9 @@
+h1 {
+  color: #ff0000;
+}
+
+.ingredients li {
+  text-size: 16px;
+  color: #0000ff;
+  font-family: "Times New Roman", Times, serif;
+}
